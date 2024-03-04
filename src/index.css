@@ -1,0 +1,10 @@
+/* tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* global css */
+* {
+  scroll-behavior: smooth;
+  user-select: none;
+}
